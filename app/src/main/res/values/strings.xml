@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My history locator</string>
+    <string name="appHeader">My Discovery App</string>
+    <string name="textHint">Enter the age</string>
+    <string name="ButtonText">Generate History</string>
+    <string name="generate_history">Generate History</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="clear">Clear</string>
+
+
+</resources>
